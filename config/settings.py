@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-o6sbrg^6r7hnb4-&-w4*k2q855re%nspase9olk02m#3xm1!jn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["mobile-app-fapo.onrender.com"]
 
 
 # Application definition
